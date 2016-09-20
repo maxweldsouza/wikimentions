@@ -1,3 +1,3 @@
 # Wikimentions
 
-Coming soon page for [wikimentions.com](http://wikimentions.com)
+Coming soon page for [WikiMentions.com](https://wikimentions.com)
